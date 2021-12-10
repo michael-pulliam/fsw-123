@@ -1,0 +1,29 @@
+.die{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 20px;
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+  background-color: purple;
+  color: beige;
+}
+#diceImg{
+  display: flex;
+  justify-content: center;
+  
+}
+#btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+button{
+  width: 100px;
+  height: 75px;
+  background-color: red;
+  color: beige;
+}
